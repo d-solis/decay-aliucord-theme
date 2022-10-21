@@ -4,4 +4,4 @@
 Install the theme by putting it into this driectory:
 
 Internal storage/Aliucord/themes
-[!][image]https://media.discordapp.net/attachments/950242755177746492/1033149672644169828/Screenshot_20221130-174618.jpg?width=306&height=609
+https://media.discordapp.net/attachments/950242755177746492/1033149672644169828/Screenshot_20221130-174618.jpg?width=306&height=609
