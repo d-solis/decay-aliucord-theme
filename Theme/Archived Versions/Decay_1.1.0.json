@@ -1,0 +1,73 @@
+{
+    "manifest": {
+        "version": "1.1.0",
+        "license": "GNU GPL V3.0",
+        "name": "decay",
+        "author": "! End#2342",
+        "updater": "https:\/\/raw.githubusercontent.com\/d-solis\/decay-aliucord-theme\/main\/Theme\/Decay.json"
+    },
+    "background": {},
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/950242755177746492\/1032816365423308880\/JetBrains_Mono_Bold_Nerd_Font_Complete_Mono_Window"
+    },
+    "simple_colors": {
+        "background": -15065564,
+        "background_secondary": -14605269,
+        "accent": -3765522,
+        "mention_highlight": -13815492,
+        "statusbar": -14144459,
+        "active_channel": -12894389,
+        "input_background": -13815492
+    },
+    "colors": {
+        "link_500": -3372572,
+        "brand_new_360": -9394709,
+        "brand_new_560": -9065744,
+        "primary_dark_100": -2170394,
+        "primary_dark_300": -8797202,
+        "primary_dark_360": -2170394,
+        "primary_dark_200": -2170394,
+        "white": -2170394,
+        "white_500": -2170394,
+        "uikit_btn_bg_color_selector_brand": -7014459,
+        "uikit_btn_bg_color_selector_green": -8856663,
+        "uikit_btn_bg_color_selector_red": -2072731,
+        "uikit_settings_item_text_color_light": -10460569,
+        "primary_dark_400": -9126167,
+        "uikit_settings_item_text_color_dark": -2170394,
+        "link": -3372572,
+        "brand_new": -1743766,
+        "primary_700": -14605269,
+        "uikit_btn_compound_color_selector_light": -3765522,
+        "uikit_btn_bg_color_selector_secondary_dark": -8797202
+    },
+    "drawable_tints": {
+        "drawable_button_red": -1743766,
+        "drawable_voice_indicator_speaking": -8797202,
+        "ic_ban_red_24dp": -1743766,
+        "ic_sidebar_notifications_off_dark_24dp": -8797202,
+        "ic_sidebar_notifications_on_dark_24dp": -8797202,
+        "ic_thread": -8797202,
+        "ic_thread_grey_24dp": -8797202,
+        "ic_thread_locked": -8797202,
+        "ic_thread_nsfw": -8797202,
+        "ic_thread_welcome_video_frame": -8797202,
+        "ic_channel_announcements": -8797202,
+        "ic_channel_announcements_locked": -8797202,
+        "ic_channel_announcements_nsfw": -8797202,
+        "ic_channel_announcements_thread": -8797202,
+        "ic_channel_announcements_thread_nsfw": -8797202,
+        "ic_channel_announcements_thread_locked": -8797202,
+        "ic_chat_message_white_24dp": -8797202,
+        "ic_sidebar_pins_on_dark_24dp": -8797202,
+        "ic_sidebar_pins_off_dark_24dp": -8797202,
+        "ic_direct_message_header": -8797202,
+        "ic_group_message_header": -10708547,
+        "ic_call_24dp": -8797202,
+        "ic_videocam_grey_24dp": -8797202,
+        "ic_add_friend_plus": -8797202,
+        "ic_add_friend_send": -8797202,
+        "drawable_button_grey": 1484375022
+    },
+    "raws": {}
+}
