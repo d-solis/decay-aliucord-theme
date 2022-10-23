@@ -4,7 +4,7 @@ Install the theme by putting it into `Internal storage/Aliucord/themes`
 
 # Editing Accents
 
-To edit the accent colors use a code editor with the.json file or in aliucord go to the themer plugin and click the edit pencil and click colors to quickly and easily edit the colors.
+To edit the accent colors use a code editor with the .json file or in aliucord go to the themer plugin and click the edit pencil and click colors to quickly and easily edit the colors.
   
 # Gallery
 
