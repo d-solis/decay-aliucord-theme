@@ -23,4 +23,4 @@ To edit the accent colors use a code editor with the .json file or in aliucord g
 # Thanks To
 
 - [d-solis](https://github.com/d-solis)
-- [d-solis](https://github.com/alphatechnolog)
+- [Alpha](https://github.com/alphatechnolog)
